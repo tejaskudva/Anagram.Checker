@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anagram Checker</string>
+    <string name="enter_first_word_in_lowercase">Enter First Word in lowercase</string>
+    <string name="enter_second_word_in_lowercase">Enter Second Word in lowercase</string>
+    <string name="check">Check</string>
+</resources>
+
